@@ -1,0 +1,33 @@
+int a;
+struct a{
+	int a;
+};
+
+int a;
+
+struct e b;
+
+struct point x;
+int b;
+
+int fct_1(void){
+	a = 3;
+
+	if(a >= 1 || a >= 1 + 4)
+		a = 6;
+	else
+		a = 15;
+	while(a < b && a > 34)
+		// Ceci est un commentaire d'une ligne
+		b = 9;
+	tessst_03(aaa, aa);
+	return a;
+	return ab;
+	return 0;
+	{return 0;}
+	
+	print(6);
+	/*Ceci//i est un commen/*t*a*ire 
+	 * avec saut de ligne*/
+	
+}

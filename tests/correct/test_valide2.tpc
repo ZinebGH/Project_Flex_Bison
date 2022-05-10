@@ -1,0 +1,6 @@
+int egal_(void){ //Nom de fct commançant avec un caractère valide
+	int b;
+	b = a; //Rajout du ; manquant
+	if(a == b)
+	    return 1;
+}
